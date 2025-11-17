@@ -19,6 +19,11 @@ function App() {
         <Route path="/login" element={<LoginPage />} />
 
         {/* Protected routes */}
+
+
+
+
+        
         <Route
           path="/*"
           element={
